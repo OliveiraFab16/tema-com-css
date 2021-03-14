@@ -1,14 +1,25 @@
 body {
+    font-size: 20px;
+    background-size: cover;
+    background-image: url(person-5843476_1280.jpg) 
+    
 }
 
 main#container {
+    border-width: 10px;
+    background-color:  #828f9748;
+    box-shadow: 3px 4px 6px 6px #03020af8;
 }
 
 h1.titulo {
+    color: #100118d5;
+    font-family: 'Chicle', cursive;
 }
 
 p.frase {
+    font-family: 'Akaya Telivigala', cursive;
 }
 
 p.autor {
+    font-family: 'IM Fell English SC', serif;
 }
